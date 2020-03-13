@@ -1,0 +1,26 @@
+
+.jobfair_wrap{ padding:30rpx; overflow: hidden; background: #fff;
+}
+.spotJob{ overflow: hidden;}
+.spotJob .spotJobz{overflow: hidden;width:100%; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; -webkit-box-pack:start; -webkit-justify-content:flex-start; -ms-flex-pack:start; justify-content:flex-start; -webkit-box-align: center; -webkit-align-items: center; -ms-flex-align: center; align-items: center; padding-bottom: 20rpx;position: relative}
+.spotJob .iconfont{ color: #0ddfce; font-size: 36rpx; position: absolute;top:0;left: 0;}
+.spotJob .tit2{ font-size: 28rpx; color: #0ddfce; line-height: 36rpx;padding-left: 46rpx;}
+.spotJob .tit3{ display: block; color: #b2b2b2; font-size: 24rpx;}
+.spotJobx{width:100%; overflow: hidden}
+.spotJob_list{width:100%; overflow: hidden; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; -webkit-box-pack:justify; -webkit-justify-content:space-between; -ms-flex-pack:justify; justify-content:space-between; background: #fff; border-bottom:1rpx solid #f1f1f1 ; padding:15rpx 0; -webkit-box-align: center; -webkit-align-items: center; -ms-flex-align: center; align-items: center;}
+.spotJob_lf{ width:20%; border-right:1rpx solid #f1f1f1; padding:10rpx 0;}
+.spotJob_lf text:nth-child(1){ display: block; text-align: center; color: #0ddfce; font-size: 26rpx; padding-bottom:2rpx;}
+.spotJob_lf text:nth-child(2){display: block; text-align: center; color: #666; font-size: 24rpx;}
+.spotJob_rt{width:75%; position: relative; -webkit-box-sizing: border-box; box-sizing: border-box; padding-right: 60rpx;}
+.spotJob_rt text:nth-child(1){ font-size: 26rpx; color: #333;
+    overflow: hidden;
+    -o-text-overflow: ellipsis;
+       text-overflow: ellipsis;
+    display:-webkit-box;
+    -webkit-box-orient:vertical;
+    -webkit-line-clamp:2;
+}
+.spotJob_rt :nth-child(2){ color: #ccc; font-size: 24rpx; position: absolute; top: 25rpx; right: 30rpx;}
+.spotJob_listx{ background: #fe7214;}
+.spotJob_listx .spotJob_lf text:nth-child(1),.spotJob_listx .spotJob_lf text:nth-child(2),.spotJob_listx .spotJob_rt text:nth-child(1),.spotJob_listx .spotJob_rt text:nth-child(2){ color: #fff}
+

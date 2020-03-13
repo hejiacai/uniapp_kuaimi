@@ -1,0 +1,41 @@
+.fs{font-size: 34rpx} 
+/* 数据为空 */
+.noData{width:100%; overflow: hidden; padding-top:5%; }
+.noData image{display: block;width:312rpx; height: 222rpx; margin: 0 auto;}
+.noData text{ display: block; text-align: center; color: #999; line-height: 50rpx; font-size: 28rpx;}
+/* 加载更多 */
+.loading{ 
+ padding: 20rpx; 
+ text-align: center;
+  color: #222;
+  font-size: 30rpx;
+} 
+.loading text{ 
+ display: inline-block; 
+ margin-right: 10rpx; 
+ vertical-align: middle; 
+ content: ''; 
+ width: 40rpx; 
+ height: 40rpx; 
+ background: url("//assets.huibo.com/img/mobile/homeicon01.png") no-repeat; 
+ background-size: contain; 
+ animation: rotate 1s linear infinite; 
+}
+.noLoading text{ display: none;}
+@keyframes rotate {
+    0% {
+        transform: rotate(0deg);
+    }
+    50% {
+        transform: rotate(180deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+/*胶囊文本*/
+.capsule{display: inline-block;font-size: 28rpx;line-height: 28rpx;padding: 12rpx 30rpx;border-radius:50rpx;border: 1px solid #ccc;color: #222222;text-align: center;margin: 0 20rpx 20rpx 0;letter-spacing: 2rpx;}
+.capsuleActive{background: #fb5958;border: 0;color: #FFFFFF;border: 1px solid #fb5958;}
+/*按钮*/
+.btn-width90{background: #fb5958;color:#fff;font-size: 34rpx;height: 88rpx;line-height: 88rpx;width:90%;text-align: center;margin: 0 auto;border-radius: 4px;margin-top: 100rpx;}
+.rewriteBtn{border: 0;border-radius:0 ;}

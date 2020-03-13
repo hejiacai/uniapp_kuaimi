@@ -1,0 +1,89 @@
+.addr-detail{
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		padding: 20rpx 30rpx 0 0;
+	}
+	.hint-text{
+		font-size: 28rpx;
+		color: #999;
+		line-height: 40rpx;
+		padding: 20rpx 30rpx;
+	}
+	.hint-text text{
+		color: #fb5958;
+	}
+	.address{
+		font-size: 30rpx;
+		color: #222;
+		margin-left: 10rpx;
+	}
+	.read-text{
+		font-size: 28rpx;
+		color: #444;
+	}
+	.icon-icon-kuaimi_resume_call_icon{
+		color: #fb5958;
+	}
+	.address-msg{
+		width: 77%;
+		overflow: hidden;
+		text-overflow: ellipsis;
+		white-space: nowrap;
+		margin-bottom: 2rpx;
+		font-size: 28rpx;
+	}
+	.invite-position{
+		border-bottom: 2rpx solid #f1f1f1;
+		padding-bottom:28rpx ;
+		font-size: 30rpx;
+		display: flex;
+		justify-content: space-between;
+		color: #222;
+	}
+	.invite-position text.tit3{
+		font-size: 30rpx;
+		color: #FB5958;
+		padding-right: 30rpx;
+	}
+	.work-addr{
+		padding: 30rpx 0 30rpx 30rpx;
+		background: #fff;
+		border-bottom: 10rpx solid #f7f7f7;
+	}
+	.tel-line{
+		margin: 20rpx 0;
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+	}
+	.inviteDetail-info {
+	    border-bottom: 10rpx solid #f5f5f5;
+		color: #222;
+		font-size: 30rpx;
+	    padding: 30rpx;
+	}
+	.wh-remind{
+		font-size: 28rpx;
+		color: #999;
+		line-height: 20px;
+		padding: 20rpx 30rpx;
+		border-bottom: 10rpx solid #f5f5f5;
+	}
+	.navigator{
+		position: relative;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		padding: 16rpx 0;
+	}
+	.getBack{
+		position: absolute;
+		top: 50%;
+		transform: translateY(-50%);
+		left: 30rpx;
+	}
+	.nav-collect{
+		font-size: 34rpx;
+		color: #3f3f3f;
+	}

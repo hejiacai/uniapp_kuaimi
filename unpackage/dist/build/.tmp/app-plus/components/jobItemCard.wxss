@@ -1,0 +1,21 @@
+
+.jobItem.data-v-267f589b{width: 100%;padding: 30rpx;-webkit-box-sizing: border-box;box-sizing: border-box;background: #fff;border-top: 10rpx solid #f6f8fa;}
+.jobItem.data-v-267f589b:first-child{border: 0;}
+.jobItemTitle.data-v-267f589b{color:$uni-text-color;height: 34rpx;}
+.jobItemTitle .jobItemName.data-v-267f589b{font-size: 34rpx;line-height: 34rpx;width: 50%;float: left;}
+.wordEllipsis.data-v-267f589b{overflow: hidden;-o-text-overflow: ellipsis;text-overflow: ellipsis;white-space: nowrap;}
+.jobSalary.data-v-267f589b{font-size: 30rpx;line-height: 30rpx;float: right;color: #FB5958;text-align: right;}
+.jobItemCompany.data-v-267f589b{padding: 16rpx 0;}
+.jobItemCompany-name.data-v-267f589b{font-size: 30rpx;line-height: 30rpx;color: #333;}
+.jobItem-famousCompany.data-v-267f589b{background: #E4E8FD;color: #5E74F0;}
+/*名企*/
+.jobItem-topCompany.data-v-267f589b{background: #FFF7EC;color: #FE8503;}
+/*急招*/
+/*国有企业*/
+.jobItem-refresh.data-v-267f589b{float: right;font-size: 24rpx;color: #ccc;}
+.sign.data-v-267f589b{display: inline-block;padding: 0 8rpx;vertical-align: middle;border-radius: 4rpx;font-size: 24rpx;margin-left: 10rpx;line-height: 32rpx;height: 32rpx;}
+.jobItemMap.data-v-267f589b{color: #999;font-size: 26rpx;line-height: 26rpx;}
+.jobItemMap text.data-v-267f589b{color: #888;margin: 0 5px;}
+.jobItemWarfe.data-v-267f589b{padding: 16rpx 0;padding-bottom: 0;}
+.jobItemWarfe text.data-v-267f589b{font-size: 24rpx;margin-right: 16rpx;background: #f4f5f8;padding: 6rpx 16rpx;color: #999;border-radius: 8rpx;}
+

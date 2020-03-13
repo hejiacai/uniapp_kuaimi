@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"jobFair3_list{ padding-left: ",[0,30],"; overflow: hidden; border-bottom:",[0,10]," solid #f1f1f1;}\n.",[1],"sub_jobfair01{ width:100%; overflow: hidden; padding:",[0,15]," 0; color: #333; font-size: ",[0,32],"; border-bottom: ",[0,1]," solid #f1f1f1;}\n.",[1],"sub_jobfair02{ padding: ",[0,20]," 0; padding-right: ",[0,20],"; color: #666; font-size: ",[0,28],";}\n",],undefined,{path:"./pages/jobFair/jobFairList.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/jobFair/jobFairList.wxml') } }));

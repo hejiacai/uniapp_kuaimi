@@ -1,0 +1,35 @@
+
+.status_bar {
+     height: calc(25px + 40px);
+     width: 100%;
+      position:fixed;
+      top: 0;
+      z-index: 9999;
+      background: #ffffff!important;
+}
+.top_view{
+		  height: calc(25px + 40px);
+		  width: 100%;
+		  position: fixed;
+		  top:0;
+		  z-index: 999;
+}
+.top_bar{
+	margin-top: calc(25px + 40px);
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+	-webkit-box-sizing: border-box;
+	        box-sizing: border-box;
+	padding: 0 20rpx;
+}
+

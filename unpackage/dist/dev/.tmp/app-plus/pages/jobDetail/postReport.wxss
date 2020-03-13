@@ -1,0 +1,25 @@
+
+.postReportCon.data-v-cd8c3d1a{width: 100%;}
+.nav.data-v-cd8c3d1a{height: 88rpx;line-height: 88rpx;}
+.back.data-v-cd8c3d1a{float: left;margin-left: 20rpx;}
+.title.data-v-cd8c3d1a{text-align: center;width: 100%;}
+.jobInfo.data-v-cd8c3d1a{padding: 20rpx 30rpx;-webkit-box-sizing: border-box;box-sizing: border-box;}
+.jobName.data-v-cd8c3d1a,.companyName.data-v-cd8c3d1a{color: #222222;font-size: 30rpx;line-height: 52rpx;text-align: left;}
+.jobName text.data-v-cd8c3d1a,.companyName text.data-v-cd8c3d1a{color: #999;padding-right: 20rpx;}
+.form.data-v-cd8c3d1a{width: 100%;padding: 40rpx 30rpx;-webkit-box-sizing: border-box;box-sizing: border-box;border-top: 5px solid #f3f3f3;}
+.form-radioList.data-v-cd8c3d1a{overflow: hidden;}
+.form-li.data-v-cd8c3d1a{width: 50%;float: left;margin-bottom: 20rpx;padding-right: 20rpx;-webkit-box-sizing: border-box;box-sizing: border-box;}
+.cur.data-v-cd8c3d1a{color:#fb5958;}
+.report-content-info.data-v-cd8c3d1a{font-size: 26rpx;line-height: 36rpx;color: #222222;}
+.radionIcon.data-v-cd8c3d1a{display: inline-block;padding-right: 10rpx;}
+.textareaContainer.data-v-cd8c3d1a{border: 1px solid #f1f1f1;border-radius: 4px;padding: 5px;margin-top: 5px;}
+.textareaContainer textarea.data-v-cd8c3d1a{
+	font-size: 24rpx;
+	min-height: 130px;
+	width: 100%;
+	display: block;
+	border: none;
+	outline: none;
+	overflow: hidden;
+}
+

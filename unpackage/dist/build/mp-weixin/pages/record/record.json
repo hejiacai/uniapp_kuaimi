@@ -1,0 +1,11 @@
+<<<<<<< .mine
+{
+  "navigationStyle": "custom",
+  "usingComponents": {}
+}||||||| .r0
+=======
+{
+  "navigationBarTitleText": "投递记录",
+  "navigationBarBackgroundColor": "#FFFFFF",
+  "usingComponents": {}
+}>>>>>>> .r171536

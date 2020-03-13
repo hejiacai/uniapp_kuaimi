@@ -1,0 +1,4 @@
+<<<<<<< .mine
+<view class="uni-status-bar data-v-d6ddb246" style="{{'height:'+(statusBarHeight)+';'}}"><slot></slot></view>||||||| .r0
+=======
+<view class="uni-status-bar data-v-58d9d45c" style="{{'height:'+(statusBarHeight)+';'}}"><slot></slot></view>>>>>>>> .r171536

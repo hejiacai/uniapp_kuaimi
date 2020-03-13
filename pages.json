@@ -1,0 +1,284 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/person/resume/resume",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		},
+        {
+        	"path": "pages/person/msg/msg",
+        	"style": {
+        		"navigationBarTitleText": "消息"
+        	}
+        },
+		{
+			"path": "pages/jobFair/jobFair",
+			"style": {
+				"navigationBarTitleText": "招聘会"
+			}
+		},
+		// {
+		// 	"path": "pages/index/index",
+		// 	"style": {
+		// 		"navigationStyle": "custom"
+		// 	}
+		// },
+		{
+			"path": "pages/companyDetail/companyDetail",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/jobFair/jobFairList",
+			"style": {
+				"navigationBarTitleText": "招聘会列表"
+			}
+		},
+		{
+			"path": "pages/jobFair/jobFairDetail",
+			"style": {
+				"navigationBarTitleText": "招聘会详情"
+			}
+		},
+		{
+			"path": "pages/jobFair/jobFairSearch",
+			"style": {
+				"navigationBarTitleText": "招聘会搜索"
+			}
+		},
+		{
+			"path": "pages/famousCompany/famousCompany",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		},
+		// {
+		//     "path" : "pages/person/resume/resume",
+		//     "style" : {
+		// 		"navigationStyle": "custom"
+		// 	}
+		// },
+		{
+			"path": "pages/jobDetail/jobDetail",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		},
+
+		{
+			"path": "pages/mine/mine",
+			"style": {
+				// "navigationStyle": "custom",
+				"navigationBarTitleText": "我的",
+				"navigationBarTextStyle":"white",
+				"navigationBarBackgroundColor":"#fb5958"
+			}
+		},
+		{
+			"path": "pages/myCollection/myCollection",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/advice/advice",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/record/record",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/invite/invite",
+			"style": {
+				// "navigationStyle": "custom"
+				"navigationBarTitleText": "面试邀请",
+				"navigationBarBackgroundColor": "#FFFFFF"
+			}
+		},
+		{
+			"path": "pages/mapBox/mapBox",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/inviteDetail/inviteDetail",
+			"style": {
+				"navigationBarTitleText": "面试邀请",
+				"navigationBarBackgroundColor": "#FFFFFF"
+			}
+		},
+        {
+        	"path": "pages/eduTrain/eduTrain",
+        	"style": {
+        		"navigationStyle": "custom"
+        	}
+        },
+        {
+        	"path": "pages/eduDetail/eduDetail",
+        	"style": {
+        		"navigationStyle": "custom"
+        	}
+        },
+		{
+			"path": "pages/login/login",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/search/search",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		}, {
+			"path": "pages/person/my/my",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		},
+		// {
+		// 	"path": "pages/companyDetail/companyDetail",
+		// 	"style": {
+		// 		"navigationStyle": "custom"
+		// 	}
+		// },
+		
+		// {
+		// 	"path": "pages/educationalTraining/educationalTraining",
+		// 	"style": {
+		// 		"navigationStyle": "custom"
+		// 	}
+		// },
+		{
+			"path": "pages/person/resume/certificate/certificate",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/person/resume/workexp/workexp",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/person/resume/presentAddress/presentAddress",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/person/resume/jobCategory/jobCategory",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/jobDetail/postReport",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		}, {
+			"path": "pages/material/material",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		}, {
+			"path": "pages/nearbyJob/nearbyJob",
+			"style": {
+				// "navigationBarTitleText": "",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/searchDetail/searchDetail",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		}
+		
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "kuaimi",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"condition": { //模式配置，仅开发期间生效
+		"current": 0, //当前激活的模式(list 的索引项)
+		"list": [
+			// {
+			// 	"path": "pages/index/index",
+			// 	"style": {
+			// 		"navigationStyle": "custom"
+			// 	}
+			// },
+			// {
+			//     "path" : "pages/companyDetail/companyDetail",
+			//     "style" : {
+			// 		"navigationStyle": "custom"
+			// 	}
+			// },
+			// {
+			//     "path" : "pages/search/search",
+			//     "style" : {
+			// 		"navigationStyle": "custom"
+			// 	}
+			// },
+			// {
+			//     "path" : "pages/search/searchDetail",
+			//     "style" : {
+			// 		"navigationStyle": "custom"
+			// 	}
+			// },
+			// {
+			//     "path" : "pages/login/login",
+			//     "style" : {
+			// 		"navigationStyle": "custom"
+			// 	}
+			// },
+			// {
+			//     "path" : "pages/jobDetail/postReport",
+			//     "style" : {
+			// 		"navigationStyle": "custom"
+			// 	}
+			// }
+		]
+	},
+	"tabBar": {
+		"color": "#555",
+		"selectedColor": "#fb5958",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"text": "首页",
+				"iconPath": "static/img/tabbar_home.png",
+				"selectedIconPath": "static/img/tabbar_home_check.png"
+			}, {
+				"pagePath": "pages/person/resume/resume",
+				"text": "简历",
+				"iconPath": "static/img/tabbar_resume.png",
+				"selectedIconPath": "static/img/tabbar_resume_check.png"
+			},
+			{
+				"pagePath": "pages/mine/mine",
+				"text": "我的",
+				"iconPath": "static/img/tabbar_my.png",
+				"selectedIconPath": "static/img/tabbar_my_check.png"
+			}
+		]
+	}
+}

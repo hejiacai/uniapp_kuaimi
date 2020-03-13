@@ -1,0 +1,17 @@
+<<<<<<< .mine
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "filter-tab-bar": "/components/filterTabBar",
+    "jobitem-card": "/components/jobItemCard"
+  }
+}||||||| .r0
+=======
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "uni-load-more": "/components/uni-load-more/uni-load-more",
+    "filter-tab-bar": "/components/filterTabBar",
+    "jobitem-card": "/components/jobItemCard"
+  }
+}>>>>>>> .r171536

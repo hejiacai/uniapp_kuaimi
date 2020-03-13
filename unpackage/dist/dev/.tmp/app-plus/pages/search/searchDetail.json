@@ -1,0 +1,7 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "filter-tab-bar": "/components/filterTabBar",
+    "jobitem-card": "/components/jobItemCard"
+  }
+}

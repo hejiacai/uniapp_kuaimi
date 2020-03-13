@@ -1,0 +1,11 @@
+<<<<<<< .mine
+{
+  "navigationStyle": "custom",
+  "usingComponents": {}
+}||||||| .r0
+=======
+{
+  "navigationBarTitleText": "面试邀请",
+  "navigationBarBackgroundColor": "#FFFFFF",
+  "usingComponents": {}
+}>>>>>>> .r171536

@@ -1,0 +1,36 @@
+
+.status_bar.data-v-304ed471 {
+         height: 25px;
+         width: 100%;
+    		  position:fixed;
+    		  top: 0;
+    		  z-index: 9999;
+    		  /* background: #333333!important; */
+}
+.top_view.data-v-304ed471{
+    		  height: 25px;
+    		  width: 100%;
+    		  position: fixed;
+    		  top:0;
+    		  z-index: 999;
+}
+.count.data-v-304ed471{font-weight: normal;
+    color: #fb5958;}
+.psgSeekHead.data-v-304ed471 {width: 100%;margin-top:25px;}
+
+.psgSeekHead.data-v-304ed471 {width: 100%;margin-top:110rpx;}
+
+.placeholderStyle.data-v-304ed471 {color: #ccc;}
+.psgSeekHead .psgSeekBg.data-v-304ed471 {padding: 16rpx 104rpx 16rpx 90rpx;position: relative;}
+.psgSeekHead .psgSeekBg text.data-v-304ed471 {line-height: 56rpx;height: 56rpx;width: 100%;text-align: center;font-size: 34rpx;color: #222;display: block;}
+.psgSeekHead .psgSeekBg .getBack.data-v-304ed471 {display: block;width: 76rpx;height: 84rpx;position: absolute;top: 0rpx;left: 0rpx;font-size: 32rpx;line-height: 84rpx;text-align: center;color: #222;}
+.sure.data-v-304ed471 {width: 120rpx;text-align: center;position: absolute;top: 0rpx;right: 0rpx;color: #fb5958;line-height: 88rpx;font-size: 30rpx;}
+.ptworkPlace.data-v-304ed471 {padding: 30rpx;padding-bottom: 14rpx;border-bottom: 2rpx solid #e5e8e8;}
+.ptworkPlace .yiXuan.data-v-304ed471 {top: 0rpx;left: 0rpx;padding-bottom: 20rpx;font-size: 24rpx;color: #555555;}
+.ptworkPlace .yiAddress.data-v-304ed471 {position: relative; display: inline-block;padding: 6rpx 60rpx 6rpx 20rpx;background: #fb5958;border: 2rpx solid #fb5958;border-radius: 50rpx;margin: 0 20rpx 4rpx 0rpx;font-size: 28rpx;color: #fff;overflow: hidden;}
+.ptworkPlace .yiAddress view.data-v-304ed471 {cursor: pointer;position: absolute;top: 4rpx;right: 12rpx;color: #fff;width: 40rpx;height: 44rpx;line-height: 44rpx;display: block;text-align: center;font-size: 30rpx}
+.more-title.data-v-304ed471 {font-size: 30rpx;color: #222;margin-top: 20rpx;padding-left: 30rpx;font-weight: bold;}
+.more-label.data-v-304ed471 {padding: 20rpx 30rpx;}
+.more-label .work.data-v-304ed471 {display: inline-block; padding: 8rpx 30rpx;font-size: 26rpx;color: #222;border: 2rpx solid #ccc;border-radius: 50rpx;margin-bottom: 20rpx;margin-right: 20rpx;}
+.more-label .red.data-v-304ed471 {border: 2rpx solid #fb5958;color: #fff;background: #fb5958;}
+

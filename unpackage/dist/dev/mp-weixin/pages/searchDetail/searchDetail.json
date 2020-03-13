@@ -1,0 +1,8 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "filter-tab-bar": "/components/filterTabBar",
+    "jobitem-card": "/components/jobItemCard",
+    "uni-load-more": "/components/uni-load-more/uni-load-more"
+  }
+}

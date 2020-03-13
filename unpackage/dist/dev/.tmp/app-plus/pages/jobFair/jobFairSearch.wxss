@@ -1,0 +1,16 @@
+
+.search_t{ padding: 20rpx; overflow: hidden; background: #fff; border-bottom: 1rpx solid #f1f1f1;}
+.search_s{width:88%; background: #f3f3f3; border-radius: 50rpx; height: 60rpx; float: left; overflow:hidden;}
+.search_s icon{ display:block; float: left; margin: 18rpx 10rpx 0 30rpx;}
+.search_s input{ display: block; float: left; height: 50rpx; line-height: 50rpx; font-size: 30rpx; margin-top: 5rpx;width:80%;}
+.search_btn{float: right;width:80rpx; height: 60rpx; line-height: 60rpx; text-align: center; color: #0ddfce;  font-size: 30rpx;}
+.jobfair2_bd{width:100%; overflow: hidden}
+.jobfair2_list{ overflow: hidden; border-bottom: 10rpx solid #f1f1f1; padding: 20rpx 30rpx; position: relative;}
+.jobfair2_list view{ overflow: hidden}
+.sub_jobFair01{ color: #999; font-size: 22rpx; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; -webkit-box-pack: justify; -webkit-justify-content: space-between; -ms-flex-pack: justify; justify-content: space-between;}
+.sub_jobFair01 text:nth-child(1){ color: #666;width:65%;-o-text-overflow:ellipsis;text-overflow:ellipsis;white-space:nowrap;overflow:hidden;}
+.sub_jobFair01 text:nth-child(2){float: right; color: #0ddfce;-o-text-overflow: ellipsis;text-overflow: ellipsis;white-space: nowrap;overflow: hidden;width: 30%;text-align: right;margin-left: 5%;}
+.sub_jobFair02{ font-size: 32rpx; color: #333; padding:10rpx 0 15rpx 0;}
+.sub_jobFair03{ color:#999; font-size: 26rpx;line-height: 44rpx;}
+	
+

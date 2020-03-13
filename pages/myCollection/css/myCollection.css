@@ -1,0 +1,199 @@
+.wunei{
+    margin-top:200rpx;
+}
+.zwnr{font-size:34rpx;text-align: center;color: #555;margin-bottom:20rpx}
+.kdbr{    color: #999;
+    font-size: 28rpx;
+    text-align: center;}
+.name-info{
+		display: flex;
+		align-items: center;
+		margin-bottom: 16rpx;
+	}
+	.company-tag{
+		background: #E4E8FD;
+		color: #5E74F0;
+		padding: 4rpx 8rpx;
+		font-size: 20rpx;
+		border-radius: 4rpx;
+		margin-left: 10rpx;
+		display: inline-block;
+		vertical-align: middle;
+		font-weight: 300;
+	}
+	.company-name{
+		color: #222;
+		font-size: 34rpx;
+		font-weight: bold;
+	}
+	.company-detail{
+		flex: 1;
+		margin-left: 30rpx;
+	}
+	.company-item{
+		padding: 60rpx 0 25rpx;
+		display: flex;
+		align-items: flex-start;
+		border-bottom: 1rpx solid #f1f1f1;
+	}
+	.company-item image{
+		width: 95rpx;
+		height: 95rpx;
+		border-radius: 10rpx;
+	}
+	.company-content{
+		padding: 0 30rpx;
+	}
+	.job-boon text{
+		font-size: 24rpx;
+		background: #f7f7f7;
+		color: #787878;
+		border-radius: 4rpx;
+		padding: 8rpx 16rpx;
+		min-width: 4em;
+		text-align: center;
+		margin-bottom: 10rpx;
+		margin-right: 20rpx;
+	}
+	.job-boon{
+		display: flex;
+		flex-direction: row;
+		flex-wrap: wrap;
+	}
+	.resemble-head{
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		color: #FB5958;
+		font-weight: normal;
+		font-size: 30rpx;
+	}
+	.resemble-require{
+		color: #999;
+		font-size: 26rpx;
+		margin-bottom: 16rpx;
+		line-height: 26rpx;
+	}
+	.resemble-name{
+		width: 50%;
+		overflow: hidden;
+		text-overflow: ellipsis;
+		white-space: nowrap;
+		font-size: 34rpx;
+		color: #222;
+		font-weight: bold;
+	}
+	.resemble-company{
+		font-size: 30rpx;
+		color: #333;
+		overflow: hidden;
+		margin: 16rpx 0;
+		width:90%;
+	}
+	.resemble-company text,.company-name text{ 
+		display: inline-block;
+		background: #E4E8FD;
+		color: #5E74F0;
+		padding: 4rpx 8rpx;
+		font-size: 20rpx;
+		border-radius: 4rpx;
+		margin-left: 10rpx;
+		display: inline-block;
+		vertical-align: middle;
+		font-weight: 300;
+	}
+	.resemble-company text.tit2,.company-name text.tit2{ background: #fff7ec; color: #fe8503;}
+	.resemble-company text.tit3,.company-name text.tit3{ background: #27bd90; color: #fff;}
+	.resemble-items{
+		padding: 30rpx 25rpx ;
+		border-bottom: 1rpx solid #f1f1f1;
+		position: relative;
+	}
+	.resemble-dataTime{
+		position: absolute;top:96rpx;right: 30rpx;color: #ccc;font-size: 24rpx;
+	}
+	.nav-title{
+		color: #858585;
+		border-bottom: 1rpx solid #f1f1f1;
+		font-size: 30rpx;
+		display: flex;
+		justify-content: space-between;
+	}
+	.active{
+		color: #FB5958;
+		position: relative;
+	}
+	.active:after{
+		position: absolute;
+		content: '';
+		width: 40rpx;
+		height: 4rpx;
+		bottom: 0;
+		left: 50%;
+		transform: translateX(-50%);
+		background: #FB5958;
+		border-radius: 2px;
+	}
+	.nav-collect{
+		text-align: center;
+	}
+	.collect{
+		padding: 25rpx 0;
+		width: 50%;
+		text-align: center;
+	}
+	.navigator{
+		position: relative;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		padding: 16rpx 0;
+	}
+	.getBack{
+		position: absolute;
+		top: 50%;
+		transform: translateY(-50%);
+		left: 30rpx;
+	}
+	.nav-collect{
+		font-size: 34rpx;
+		color: #3f3f3f;
+	}
+	.navigatorr{
+			/* display: flex;
+			align-items: center;
+			justify-content: space-between;
+			padding: 16rpx 20rpx; */
+			position: relative;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			padding: 16rpx 0;
+		}
+	.collectionback {
+		position: absolute;
+		top: 22rpx;
+		left: 20rpx;
+	}
+	.minetitle {
+		    font-size: 17px;
+		    color: #222;
+	}
+	.status_bar {
+	         height: var(--status-bar-height);
+	         width: 100%;
+	    		  position:fixed;
+	    		  top: 0;
+	    		  z-index: 9999;
+	    		  /* background: #333333!important; */
+	     }
+	     .top_view{
+	    		  height: var(--status-bar-height);
+	    		  width: 100%;
+	    		  position: fixed;
+	    		  top:0;
+	    		  z-index: 999;
+	     }
+		.psgSeekBg {
+			margin-top:var(--status-bar-height);
+		}

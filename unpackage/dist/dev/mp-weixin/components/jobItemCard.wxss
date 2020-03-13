@@ -1,0 +1,42 @@
+
+.jobItem.data-v-4e9b5bfa{width: 100%;padding: 40rpx 30rpx;-webkit-box-sizing: border-box;box-sizing: border-box;background: #fff;border-bottom: 10rpx solid #f6f8fa;position: relative;}
+.fresh_signnew.data-v-4e9b5bfa{position: absolute;color: #FE8503;right: 0;top:0;font-size: 60rpx}
+.jobItemTitle.data-v-4e9b5bfa{color:#222;height: 34rpx;}
+.jobItemTitle .jobItemName.data-v-4e9b5bfa{font-size: 34rpx;line-height: 36rpx;width: 50%;float: left;font-weight: bold;}
+.wordEllipsis.data-v-4e9b5bfa{overflow: hidden;-o-text-overflow: ellipsis;text-overflow: ellipsis;white-space: nowrap;}
+.jobSalary.data-v-4e9b5bfa{font-size: 30rpx;line-height: 30rpx;float: right;color: #FB5958;text-align: right;}
+.jobItemCompany.data-v-4e9b5bfa{margin-top: 20rpx;font-size: 30rpx;line-height: 30rpx;}
+.jobItemCompany.data-v-4e9b5bfa{height: 30rpx;line-height: 30rpx;}
+.jobItemCompany-name.data-v-4e9b5bfa{font-size: 30rpx;line-height: 30rpx;color: #333;float: left;}
+.jobItemCompany-refreshTime.data-v-4e9b5bfa{float: right;color: #CCCCCC;font-size: 24rpx;line-height: 30rpx;}
+/* .jobItem-famousCompany{background: #E4E8FD;color: #5E74F0;} /*名企*/
+/* .jobItem-topCompany{} */
+/*急招*/
+/*国有企业*/
+.jobItem-refresh.data-v-4e9b5bfa{float: right;font-size: 24rpx;color: #ccc;}
+.sign.data-v-4e9b5bfa{background: #FFF7EC;color: #FE8503;display: inline-block;padding: 0 8rpx;vertical-align: middle;border-radius: 4rpx;font-size: 24rpx;margin-left: 10rpx;line-height: 32rpx;height: 32rpx;}
+.jobItemMap.data-v-4e9b5bfa{color: #999;font-size: 26rpx;line-height: 26rpx;margin-top: 30rpx;}
+.jobItemMap text.data-v-4e9b5bfa{color: #888;margin: 0 5px;}
+.jobItemWarfe.data-v-4e9b5bfa{padding-bottom: 0;margin-top: 30rpx;}
+.jobItemWarfe text.data-v-4e9b5bfa{font-size: 24rpx;line-height: 24rpx;margin-right: 16rpx;background: #f4f5f8;padding: 6rpx 16rpx;color: #999;border-radius: 8rpx;margin-bottom: 10px;}
+/*名企小标签*/
+.famousCompany.data-v-4e9b5bfa{
+	background: #E4E8FD;
+	color:#5E74F0;
+}
+/*急招小标签*/
+.topCompany.data-v-4e9b5bfa{
+	background: #FFF7EC;
+	color:#FE8503;
+}
+/*直招小标签*/
+.straightCompany.data-v-4e9b5bfa{
+	background: #E1FBFC;
+	color:#21BFCA;
+}
+/*奖励小标签*/
+.bonusMoney.data-v-4e9b5bfa{
+	background: #27BD90;
+	color:#fff;
+}
+

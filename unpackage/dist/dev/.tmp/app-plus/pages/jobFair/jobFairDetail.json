@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "招聘会详情",
+  "usingComponents": {
+    "uni-load-more": "/components/uni-load-more/uni-load-more"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "知名企业",
+  "navigationBarBackgroundColor": "#fff",
+  "colorType": "orange",
+  "usingComponents": {
+    "uni-load-more": "/components/uni-load-more/uni-load-more"
+  }
+}
